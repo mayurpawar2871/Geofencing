@@ -1,0 +1,64 @@
+https://blog.adafruit.com/2019/06/04/turn-smart-lights-on-when-you-come-near-geofencing-esp8266-lucvolders2/
+http://www.africangeek.com/Home/Details/42
+https://rocketmap.readthedocs.io/en/develop/extras/geofences.html
+https://www.techwalla.com/articles/how-to-track-the-location-of-a-cell-phone-using-an-ip-address
+
+
+GeoFence - GPS Boundary Widget
+https://learn.sparkfun.com/tutorials/getting-started-with-the-geofence/all
+https://www.sparkfun.com/products/retired/14416
+
+
+
+https://www.journaldev.com/16140/python-system-command-os-subprocess-call#python-ossystem-function  
+
+
+
+
+Approaches
+1) entering wifi...ping mobile IP address -  wifi return IP address
+
+2) geofencing mobile app will send notification email/sms when enters 100m geofence area
+RPI will read email ...decode word
+
+3) GPS hardware GTO will SEND  1 & 0 to RPI  whenever geofence border is entered  
+
+
+
+
+https://forum.athom.com/discussion/2804/setup-homey-with-mqtt-for-location-detection
+https://play.google.com/store/apps/details?id=org.owntracks.android
+
+https://www.baldengineer.com/mqtt-tutorial.html
+
+
+
+
+https://pythonprogramming.net/math-basics-python-3-beginner-tutorial/
+
+https://pythonprogramming.net/reading-file-python-3-tutorial/
+
+
+
+
+http://www.steves-internet-guide.com/loop-python-mqtt-client/
+
+
+
+MQTT CALLBACK
+
+https://pypi.org/project/paho-mqtt/#callbacks
+
+json decoder
+http://www.steves-internet-guide.com/send-json-data-mqtt-python/
+
+
+//AWS HiveMQ
+https://www.hivemq.com/downloads/
+
+
+//MQTTT IMP
+
+http://www.steves-internet-guide.com/mosquitto_pub-sub-clients/
+
+

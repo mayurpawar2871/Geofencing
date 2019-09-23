@@ -1,0 +1,106 @@
+https://jp.mathworks.com/videos/raspberry-pi-programming-using-simulink-81996.html  //mAtlab for RPI
+
+
+//Auotomated device provisioning
+https://aws.amazon.com/blogs/iot/provision-devices-globally-with-aws-iot/
+
+
+
+//TPM
+https://qiita.com/mune10/items/5f565fcd8f010179d529
+https://letstrust.de/archives/9-Howto-Enable-TPM-Support-on-a-Raspberry-PI-0,-0W,-1,-2,-3-and-make-it-work-with-the-LetsTrust-TPM.html
+https://trustedcomputinggroup.org/resource/tpm-main-specification/   //specs
+https://www.digikey.com/catalog/en/partgroup/trusted-platform-module-tpm-add-on-boards-for-raspberry-pi/86878#datasheets
+https://securityboulevard.com/2018/08/securing-industrial-iot-sensors-part-1-the-tpm-for-network-security/
+http://www.linux-magazine.com/Issues/2018/206/Trusted-Platform-Module/(tagID)/154  //rpi 
+https://github.com/tpm2-software/tpm2-tss   //TPM software for infenion chip
+
+//must in IoT
+http://iotdesign.embedded-computing.com/articles/fundamentals-of-iot-device-management/
+
+//AZURE DEVICE PROVISIONIG
+https://docs.microsoft.com/en-us/azure/iot-dps/about-iot-dps
+https://docs.microsoft.com/en-us/azure/iot-dps/concepts-auto-provisioning
+
+
+//MQTT
+http://www.steves-internet-guide.com/mqtt/
+https://www.youtube.com/watch?v=tQmXWNd1pNk
+http://www.steves-internet-guide.com/mqtt/#mqtt-http    //questions
+http://www.steves-internet-guide.com/mqtt-protocol-messages-overview/
+https://techfortalk.co.uk/2017/12/12/how-to-publish-a-topic-with-mqtt-broker-running-on-iot-eclipse-org-server/
+https://iot.eclipse.org/getting-started/
+https://www.eclipse.org/paho/clients/js/utility/
+
+https://hostadvice.com/how-to/how-to-install-and-configure-mosquitto-mqtt-on-your-ubuntu-18-04-server/
+
+
+//very important MQTT
+https://appcodelabs.com/introduction-to-iot-build-an-mqtt-server-using-raspberry-pi
+https://docs.aws.amazon.com/iot/latest/developerguide/iot-rules-tutorial.html
+http://www.steves-internet-guide.com/python-mqtt-publish-subscribe/
+http://www.steves-internet-guide.com/into-mqtt-python-client/
+
+//Node RED
+https://nodered.org/
+https://www.youtube.com/watch?v=XDrwgMSQrEY&feature=youtu.be
+
+
+//SAKURA CLOUD
+https://github.com/sakura-internet/cloud-startupscripts
+https://www.1ft-seabass.jp/memo/2018/12/01/nodered-and-obniz-using-mqtt-over-websocket/
+
+//CROSSCOMPILING for rpi
+http://www.hertaville.com/development-environment-raspberry-pi-cross-compiler.html
+http://geomodule.com/sw-eng-notes/2017/03/25/raspberry-pi-cross-compiling/
+
+
+//remote debugging rpi
+http://www.hertaville.com/remote-debugging.html
+http://geomodule.com/sw-eng-notes/2017/03/25/raspberry-pi-debugging-with-gdb-command-line/
+https://stackoverflow.com/questions/34567104/how-do-i-use-gdbserver-on-raspberry-pi
+
+//RPI IN C++
+http://www.hertaville.com/introduction-to-accessing-the-raspberry-pis-gpio-in-c.html
+
+
+https://jsonlint.com/
+
+//mbed OS 
+https://os.mbed.com/docs/mbed-linux-os/v0.6/welcome/index.html
+
+
+//SQL LITE 3
+https://randomnerdtutorials.com/sqlite-database-on-a-raspberry-pi/
+
+//Zeryth all lib & platform development 
+https://docs.zerynth.com/latest/index.html
+
+
+//FOTA  .fw file
+https://file.org/extension/fw
+
+//bootloader check
+https://www.microcontrollertips.com/what-is-an-embedded-bootloader-faq/
+
+
+// AWS IoT documentation 
+https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html
+https://github.com/aws/aws-iot-device-sdk-embedded-C/blob/master/PortingGuide.md
+
+
+
+INDIAN github , linkedin blog ...
+https://uk.linkedin.com/in/vivekbhadra
+https://techfortalk.co.uk/2017/12/12/how-to-publish-a-topic-with-mqtt-broker-running-on-iot-eclipse-org-server/
+https://github.com/vivekbhadra
+
+
+
+
+
+https://hostadvice.com/how-to/how-to-install-and-configure-mosquitto-mqtt-on-your-ubuntu-18-04-server/
+http://www.steves-internet-guide.com/mossquitto-conf-file/
+http://www.steves-internet-guide.com/install-mosquitto-linux/
+https://www.eclipse.org/paho/clients/js/utility/
+
