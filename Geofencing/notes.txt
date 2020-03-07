@@ -1,0 +1,40 @@
+current location
+35.7179649
+139.96
+
+35.7177880
+139.9690188
+
+
+set location
+35.7172425
+139.9687718
+
+http://www.byfarthersteps.com/?p=6802
+
+https://github.com/codazoda/hub-ctrl.c
+
+http://www.byfarthersteps.com/?p=6802
+
+ sudo ./uhubctl -l 1-1 -p 2 -a off
+
+
+ sudo ./uhubctl -l 1-1 -p 2 -a on
+
+
+os.system('sudo ./uhubctl -l 1-1 -p 2 -a off ')
+
+os.system('sudo ./uhubctl -l 1-1 -p 2 -a on ')
+
+current location
+35.7179649
+139.96
+
+35.7177880
+139.9690188
+
+
+set location
+35.7172425
+139.9687718
+
